@@ -60,14 +60,14 @@
     gap: 55px;
 }
 
-.stats span h1{
+.stats div h1{
     font-size: 1.5rem;
     color:white;
     font-family: 'Inter', sans-serif;
     text-transform: none;
 }
 
-.stats span{
+.stats div{
     font-family: 'Lexend Deca', sans-serif;
     text-transform:uppercase;
     font-size:13px;
